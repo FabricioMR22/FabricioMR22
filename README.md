@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<div style="display: flex; align-items: center; justify-content: flex-end;">
-  Texto justificado alrededor de la imagen
-  FabricioMR22 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Título de la imagen" style="margin-left: 20px;" width="200">
-</div>
 
 Here are some ideas to get you started:
 
