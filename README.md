@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: flex-end;">
   Texto justificado alrededor de la imagen
-  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Título de la imagen" style="margin-left: 100px;" width="200">
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Título de la imagen" style="margin-left: 20px;" width="200">
 </div>
 
 <!--
