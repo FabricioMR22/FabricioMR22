@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">via GIPHY</a></p>
+<div style="display: flex; align-items: center; justify-content: flex-end;">
+  Texto justificado alrededor de la imagen
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Título de la imagen" style="margin-left: 100px;" width="200">
+</div>
 
 <!--
 **FabricioMR22/FabricioMR22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
